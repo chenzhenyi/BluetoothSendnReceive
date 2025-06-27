@@ -1,0 +1,2 @@
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothClient\obj\Debug\BluetoothClient.csproj.AssemblyReference.cache
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothClient\obj\Debug\BluetoothClient.csproj.CoreCompileInputs.cache

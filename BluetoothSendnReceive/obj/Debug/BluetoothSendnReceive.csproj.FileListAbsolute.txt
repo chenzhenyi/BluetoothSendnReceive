@@ -1,0 +1,10 @@
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothSendnReceive\bin\Debug\BluetoothSendnReceive.exe.config
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothSendnReceive\bin\Debug\BluetoothSendnReceive.exe
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothSendnReceive\bin\Debug\BluetoothSendnReceive.pdb
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothSendnReceive\bin\Debug\InTheHand.Net.Bluetooth.dll
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothSendnReceive\bin\Debug\InTheHand.Net.Bluetooth.xml
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothSendnReceive\obj\Debug\BluetoothSendnReceive.csproj.AssemblyReference.cache
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothSendnReceive\obj\Debug\BluetoothSendnReceive.csproj.CoreCompileInputs.cache
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothSendnReceive\obj\Debug\BluetoothSendnReceive.csproj.CopyComplete
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothSendnReceive\obj\Debug\BluetoothSendnReceive.exe
+C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothSendnReceive\obj\Debug\BluetoothSendnReceive.pdb
