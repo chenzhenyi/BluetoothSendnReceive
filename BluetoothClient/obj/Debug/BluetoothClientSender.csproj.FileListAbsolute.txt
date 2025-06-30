@@ -8,3 +8,13 @@ C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothClient\obj\Debug\B
 C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothClient\obj\Debug\BluetoothClientSender.csproj.CopyComplete
 C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothClient\obj\Debug\BluetoothClient.exe
 C:\Users\Red Team\source\repos\BluetoothSendnReceive\BluetoothClient\obj\Debug\BluetoothClient.pdb
+C:\Users\Red Team\Desktop\github\BluetoothSendnReceive\BluetoothClient\obj\Debug\BluetoothClientSender.csprojAssemblyReference.cache
+C:\Users\Red Team\Desktop\github\BluetoothSendnReceive\BluetoothClient\obj\Debug\BluetoothClientSender.csproj.CoreCompileInputs.cache
+C:\Users\Red Team\Desktop\github\BluetoothSendnReceive\BluetoothClient\obj\Debug\BluetoothClient.exe
+C:\Users\Red Team\Desktop\github\BluetoothSendnReceive\BluetoothClient\obj\Debug\BluetoothClient.pdb
+C:\Users\Red Team\Desktop\github\BluetoothSendnReceive\BluetoothClient\bin\Debug\BluetoothClient.exe.config
+C:\Users\Red Team\Desktop\github\BluetoothSendnReceive\BluetoothClient\bin\Debug\BluetoothClient.exe
+C:\Users\Red Team\Desktop\github\BluetoothSendnReceive\BluetoothClient\bin\Debug\BluetoothClient.pdb
+C:\Users\Red Team\Desktop\github\BluetoothSendnReceive\BluetoothClient\bin\Debug\InTheHand.Net.Bluetooth.dll
+C:\Users\Red Team\Desktop\github\BluetoothSendnReceive\BluetoothClient\bin\Debug\InTheHand.Net.Bluetooth.xml
+C:\Users\Red Team\Desktop\github\BluetoothSendnReceive\BluetoothClient\obj\Debug\BluetoothClientSender.csproj.CopyComplete
